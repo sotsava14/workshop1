@@ -22,3 +22,8 @@
   * Lion
   * Tiger
   * Cheetah
+
+1. Birds
+ 1. Eagle
+ 2. Hawk
+ 3. Falcon
