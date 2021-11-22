@@ -27,3 +27,7 @@
    1. Eagle
    2. Hawk
    3. Falcon
+
+Table 1 | Table 2
+------- | -------
+NAME | ROLLNO
